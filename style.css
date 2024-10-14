@@ -1,0 +1,36 @@
+header {
+    background-color: #000000; 
+    color: #ffffff; 
+}
+
+header a {
+    color: #ffffff;
+}
+
+.hero {
+    background-color: #333333; 
+    color: #ffffff; 
+}
+
+.hero .button {
+    background-color: #00a8ff; 
+    color: #ffffff; 
+}
+
+.features {
+    background-color: #f4f4f4; 
+    color: #000000; 
+}
+
+.team {
+    background-color: #f4f4f4; 
+    color: #000000; 
+}
+
+footer {
+     background-color: #000000; 
+    color: #ffffff; 
+}
+footer .footer-logo span {
+    color: #00a8ff; 
+}
